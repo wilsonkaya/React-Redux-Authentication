@@ -26,4 +26,4 @@ dependency is integrated to navigate outside of the component programmatically.
 ### Notes
 There are different approaches for navigating React Router 4. The following link
 provides more comprehensive insight into these approaches.
-[a link](https://stackoverflow.com/questions/42123261/programmatically-navigate-using-react-router-v4)
+[Programmatically navigate using react router V4](https://stackoverflow.com/questions/42123261/programmatically-navigate-using-react-router-v4)
